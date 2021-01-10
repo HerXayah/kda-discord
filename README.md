@@ -1,5 +1,5 @@
 # KDA Theme for Discord
-KDA Theme for BetterDiscord, Powercord and Lightcore and more
+KDA Theme for BetterDiscord, Powercord and more
 <br>
 
 # Installation
