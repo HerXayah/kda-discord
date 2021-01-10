@@ -3,7 +3,7 @@ KDA Theme for BetterDiscord, Powercord and Lightcore and more
 <br>
 
 # Installation
-
+Powercord Example: <br>
 ```powercord root/src/Powercord/themes``` -> ```git clone https://github.com/PrincessAkira/kda-discord```
 <br>
 
