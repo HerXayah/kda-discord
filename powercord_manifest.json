@@ -1,0 +1,9 @@
+{
+  "name": "KDA Theme",
+  "description": "A theme i made because i like KDA",
+  "version": "1",
+  "author": "Azariel#0004",
+  "license": "MIT",
+  "theme": "Yukii.theme.scss",
+  "consent": "false"
+}
