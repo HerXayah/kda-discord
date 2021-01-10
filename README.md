@@ -1,4 +1,4 @@
-# kda-discord
+# KDA Theme for Discord
 KDA Theme for BetterDiscord, Powercord and Lightcore and more
 <br>
 

@@ -1,7 +1,7 @@
 {
-  "name": "KDA Theme",
+  "name": "KDA-Cord",
   "description": "A theme i made because i like KDA",
-  "version": "1",
+  "version": "1.0.0",
   "author": "Azariel#0004",
   "license": "MIT",
   "theme": "Yukii.theme.scss",
