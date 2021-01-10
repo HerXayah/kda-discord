@@ -54,14 +54,23 @@ body {
 }
 .outer-1AjyKL.active-1xchHY,
 .headerPlaying-j0WQBV,
-.inset-3sAvek {
+.inset-3sAvek,
+.header-2BwW8b,
+.footer-2gL1pp,
+.headerNormal-T_seeN,
+.paymentPane-3bwJ6A,
+.body-3iLsc4,
+.footer-1fjuF6,
+.topSectionSpotify-1lI0-P,
+.header-QKLPzZ,
+.tabBarContainer-1s1u-z,
+.paginator-166-09,
+.payment-xT17Mq,
+.container-1D34oG  {
     background: none !important;
 }
 
-.inset-3sAvek:hover {
-    background-color: rgba(0, 0, 0, 0.6587);
-}
-
+.inset-3sAvek:hover,
 .outer-1AjyKL.interactive-3B9GmY:hover {
     background-color: rgba(0, 0, 0, 0.6587);
 }
@@ -71,13 +80,6 @@ body {
     text-align: center;
     border-radius: var(--kda-border-size);
 }
-
-.body-3iLsc4,
-.footer-1fjuF6,
-.topSectionSpotify-1lI0-P {
-    background: none !important;
-}
-
 
 .outer-1AjyKL.interactive-3B9GmY:hover {
     background-color: var(--kda-color);
@@ -94,12 +96,6 @@ border-radius: var(--kda-border-size);
     background-color: var(--kda-popout) !important;
 }
 
-.header-2BwW8b,
-.footer-2gL1pp,
-.headerNormal-T_seeN {
-    background: none !important;
-}
-
 .backdrop-1wrmKB,
 .backdropWithLayer-3_uhz4 {
     margin: 30px;
@@ -108,18 +104,10 @@ border-radius: var(--kda-border-size);
     border-radius: var(--kda-border-size);
 }
 
-.header-QKLPzZ {
-    background-color: transparent;
-}
-
 .inner-1ilYF7 {
     margin: 10px;
     background-color: var(--kda-color);
     border-radius: var(--kda-border-size);
-}
-
-.tabBarContainer-1s1u-z {
-    background: none;
 }
 
 .headerFill-adLl4x {
@@ -152,14 +140,6 @@ border-radius: var(--kda-border-size);
 
 .selected-1Tbx07 {
     background-color: rgba(0, 0, 0, 0.9) !important;
-}
-
-.authedApp-mj2Hmd,
-.connection-1fbD7X,
-.accountList-33MS45,
-.container-enaOkj {
-    background-color: rgba(0, 0, 0, 0.8);
-    border-radius: var(--kda-border-size);
 }
 
 .uploadModal-2ifh8j,
@@ -212,16 +192,6 @@ border-radius: var(--kda-border-size);
 .cooldownWrapper-3joyFc {
     margin-top: 11px;
     font-size: 9px;
-}
-
-
-.paginator-166-09,
-.payment-xT17Mq {
-    background: none !important;
-}
-
-.container-1D34oG {
-    background: none !important;
 }
 
 .app-1q1i1E {
