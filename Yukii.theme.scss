@@ -21,7 +21,7 @@
     --background-secondary-alt: transparent !important;
     --background-accent: transparent !important;
     --background-floating: transparent !important;
-    --kda-margin: 30px;
+    --kda-margin: 21px;
     --kda-color: rgba(0, 0, 0, 0.6587);
     --kda-popout: rgba(0, 0, 0, 0.87);
     --kda-border-size: 25px;
@@ -252,7 +252,6 @@ body {
     white-space: nowrap;
     order: 1
 }
-
 .typeWindows-1za-n7>.wordmark-2iDDfm:before {
     content: "KDA Theme";
     color: rgb(131, 3, 190);
@@ -260,7 +259,6 @@ body {
     font-size: 15px;
     text-shadow: 0 0 3px #000
 }
-
 .typeWindows-1za-n7>.wordmark-2iDDfm:after {
     content: var(--kda-version);
     color: rgb(255, 255, 255);
@@ -327,4 +325,30 @@ body {
 
 .popoutRight-1veHKi.noArrow-2foL9g {
     overflow: hidden;
+}
+
+/**
+*  eyes pop out
+*  basically move the thing
+*/ 
+[class*=typeWindows] div:not([class*=wordmark]){
+    border-radius: 25px;
+    background: none !important;
+    transform: translate(-50%, 105%);
+    
+  }
+  section[aria-label="Channel header"] > [class*=toolbar]{
+    margin-right: 14%
+  }
+/**
+* basically?
+* swag.
+*/
+[class*=bottomControls] [class*=flex] {
+    div div button {
+        background: transparent !important;
+    }
+    [tabindex] {
+        background: transparent !important;
+    }
 }
