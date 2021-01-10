@@ -52,6 +52,7 @@ body {
 .topSectionPlaying-1J5E4n {
     background: none;
 }
+
 .outer-1AjyKL.active-1xchHY,
 .headerPlaying-j0WQBV,
 .inset-3sAvek,
@@ -66,7 +67,7 @@ body {
 .tabBarContainer-1s1u-z,
 .paginator-166-09,
 .payment-xT17Mq,
-.container-1D34oG  {
+.container-1D34oG {
     background: none !important;
 }
 
@@ -85,10 +86,10 @@ body {
     background-color: var(--kda-color);
 }
 
-.itemCard-v9viV7:hover, 
+.itemCard-v9viV7:hover,
 .peopleListItem-2nzedh:hover {
-background-color: var(--kda-color) !important;
-border-radius: var(--kda-border-size);
+    background-color: var(--kda-color) !important;
+    border-radius: var(--kda-border-size);
 }
 
 .popout-38lTFE,
@@ -119,8 +120,9 @@ border-radius: var(--kda-border-size);
     background-color: var(--kda-popout);
 }
 
-.input-cIJ7To.focused-1mmYsC, .input-cIJ7To:focus {
-    border-color:  rebeccapurple !important;
+.input-cIJ7To.focused-1mmYsC,
+.input-cIJ7To:focus {
+    border-color: rebeccapurple !important;
 }
 
 .lookFilled-1Gx00P.colorGrey-2DXtkV,
