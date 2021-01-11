@@ -352,3 +352,23 @@ body {
         background: transparent !important;
     }
 }
+/**
+* Stop the thing from doing the sharp edges
+* (stop the notice bammers from changing border radius)
+* (and also make it more flush with the)
+*/
+[class*=notice]{
+    border-radius: var(--kda-border-size);
+    height: 45px;
+
+    width: 25%;
+    right: 50%;
+    transform: translate(40%);
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.4);
+    button{
+        border-radius: var(--kda-border-size);
+    }
+
+    
+}
