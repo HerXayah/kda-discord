@@ -9,7 +9,7 @@
  * @updateUrl https://raw.githubusercontent.com/PrincessAkira/kda-discord/main/Yukii.theme.scss
  */
 
-:root {
+ :root {
     --main-color: #f1f1f1;
     --text-link: rgb(211, 28, 171) !important;
     --bg-src: url(https://i.imgur.com/YCvC1MW.png);
@@ -328,3 +328,9 @@ body {
 .popoutRight-1veHKi.noArrow-2foL9g {
     overflow: hidden;
 }
+
+/* PRs from jdadounut
+*
+* https://github.com/PrincessAkira/kda-discord/pull/2/commits/efba5d3121ac8918896df0a5a00043c3b2c0db71
+*
+*/
