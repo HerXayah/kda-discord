@@ -29,7 +29,7 @@
     --scrollbar-auto-track: rgba(0, 0, 0, 0);
     --scrollbar-auto-thumb: rgba(0, 0, 0, 0);
     --scrollbar-thin-thumb: rgba(0, 0, 0, 0);
-    --kda-version: "1.0.1";
+    --kda-version: "1.0.2";
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
