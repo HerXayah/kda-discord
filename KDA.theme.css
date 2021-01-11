@@ -76,7 +76,8 @@ body {
     background-color: rgba(0, 0, 0, 0.6587);
 }
 
-.tooltipContent-bqVLWK {
+.tooltipContent-bqVLWK,
+.emojiSection-3Fb9ix {
     background-color: rgba(0, 0, 0, 0.6587) !important;
     text-align: center;
     border-radius: var(--kda-border-size);
