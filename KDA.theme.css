@@ -9,7 +9,7 @@
  * @updateUrl https://raw.githubusercontent.com/PrincessAkira/kda-discord/main/KDA.theme.css
  */
 
- :root {
+:root {
     --main-color: #f1f1f1;
     --text-link: rgb(211, 28, 171) !important;
     --bg-src: url(https://i.imgur.com/YCvC1MW.png);
@@ -29,7 +29,7 @@
     --scrollbar-auto-track: rgba(0, 0, 0, 0);
     --scrollbar-auto-thumb: rgba(0, 0, 0, 0);
     --scrollbar-thin-thumb: rgba(0, 0, 0, 0);
-    --kda-version: "1.0.2";
+    --kda-version: "1.0.3";
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
@@ -43,6 +43,18 @@ body {
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
+}
+
+.colorStandard-2KCXvj,
+.colorHeaderSecondary-3Sp3Ft,
+.colorHeaderPrimary-26Jzh-,
+.input-cIJ7To,
+.contents-18-Yxp {
+    color: white;
+}
+
+.anchor-3Z-8Bb {
+    color: purple;
 }
 
 .app-1q1i1E,
@@ -83,6 +95,15 @@ body {
     background-color: rgba(0, 0, 0, 0.6587) !important;
     text-align: center;
     border-radius: var(--kda-border-size);
+}
+
+.chat-3bRxxu {
+    border-radius: var(--kda-border-size);
+}
+
+.container-UC8Ug1 {
+    border-radius: var(--kda-border-size);
+    background-color: black;
 }
 
 .outer-1AjyKL.interactive-3B9GmY:hover {
